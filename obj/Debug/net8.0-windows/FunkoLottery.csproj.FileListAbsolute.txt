@@ -1,0 +1,16 @@
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\bin\Debug\net8.0-windows\FunkoLottery.exe
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\bin\Debug\net8.0-windows\FunkoLottery.deps.json
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\bin\Debug\net8.0-windows\FunkoLottery.runtimeconfig.json
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\bin\Debug\net8.0-windows\FunkoLottery.dll
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\bin\Debug\net8.0-windows\FunkoLottery.pdb
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.Form1.resources
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.csproj.GenerateResource.cache
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.AssemblyInfoInputs.cache
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.AssemblyInfo.cs
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.csproj.CoreCompileInputs.cache
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.dll
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\refint\FunkoLottery.dll
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.pdb
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\FunkoLottery.genruntimeconfig.cache
+C:\Users\herbe\OneDrive\Área de Trabalho\Winter 2024\Reverse Carrer Fair\FunkoLottery\obj\Debug\net8.0-windows\ref\FunkoLottery.dll
